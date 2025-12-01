@@ -1,0 +1,4 @@
+Task,Accuracy,Time_s,Memory_KB,Complexity,Maintainability,Pylint_Score
+task4,1.0,4.9591064453125e-05,0.2734375,3,65.72734233911126,10.0
+task4ai,1.0,6.985664367675781e-05,0.296875,3,68.75825154615833,10.0
+round_trip,1.0,0.0,0.0,0,0.0,0.0

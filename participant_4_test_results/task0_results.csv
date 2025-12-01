@@ -1,0 +1,3 @@
+File,Function,Accuracy,Time_s,Memory_KB,Complexity,Maintainability,Pylint_Score
+task0.py,task0,1.0,5.149999924469739e-05,0.078125,3,84.69319837885878,10.0
+task0ai.py,task0ai,1.0,3.719999949680641e-05,0.078125,3,84.69319837885878,10.0
