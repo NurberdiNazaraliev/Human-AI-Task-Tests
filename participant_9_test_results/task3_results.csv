@@ -1,0 +1,3 @@
+Task,Accuracy,Time_s,Memory_KB,Complexity,Maintainability,Pylint_Score
+task3,1.0,0.049611568450927734,5343.9375,1,100.0,10.0
+task3ai,1.0,0.06482791900634766,5343.9501953125,1,100.0,10.0
